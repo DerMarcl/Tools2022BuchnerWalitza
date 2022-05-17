@@ -3,6 +3,9 @@ public class Dummy {
 
     public void thisIsANewMethod() {
         System.out.println("Added by Member2");
+        int i = 2;
+        int result = i + 2;
+        System.out.println(result);
     }
 =======
 static int NUMBER = 10;
