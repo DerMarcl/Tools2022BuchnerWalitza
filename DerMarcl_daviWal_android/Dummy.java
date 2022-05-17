@@ -2,7 +2,7 @@ public class Dummy {
 <<<<<<< HEAD
 
     public void thisIsANewMethod() {
-        
+        System.out.println("Added by Member2");
     }
 =======
 static int NUMBER = 10;
